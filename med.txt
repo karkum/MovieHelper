@@ -1,0 +1,400 @@
+Rancho California
+Drowning
+The Hitman&#x27;s Phone Call
+Take Me Home
+Ben Fries the Slaves
+She Unfolds by Day
+Wild Fortunes
+The Devil&#x27;s Courthouse
+Parable
+And Then...
+Yesterday&#x27;s Not Tomorrow
+Boats Beat Back
+Manual
+Speilburgh
+Writer&#x27;s Day
+Pedro
+Damaged
+The Mountain Crumbles
+Goodbye to You
+Living with the Fosters
+Small Town Killing
+Where One Stands
+The Vault
+A Break in the Clouds
+On the Fringe
+Diary of a Co-Worker
+Morning Funeral
+Killing Christian
+Pan Dulce
+Sinner
+Cruz Reynoso: Sowing the Seeds of Justice
+Together
+Take Two
+Invisible Mountains
+The Ballad of PonyBoy
+Sleepdancer
+The Zombie Hero
+Holla If You Hear Me
+Staying Gold
+Twice Today
+On the Other Side
+Double Edged
+Pushing the Envelope
+A Forked World
+Siren
+Malevolent Ascent
+Circuit Breaker
+UR4 Given
+A Spaniard&#x27;s Tale
+Larissa &#x26; Mami: Part 2
+The Final Witness
+Three Tales
+Milk Can
+Peeper: A Sort of Love Story
+Punching at the Sun
+Never Ending
+Senses of Place
+Shiro&#x27;s Head
+Leave It to Chance
+The Puppet Show Has Been Canceled
+Speeder Kills
+The Tale of a Suicidal Narcoleptic
+Silent Screamplay
+Krush
+Framework
+Almelund
+Estranged
+Queen of the Gypsies
+Karma Got Friendly
+Jetblast
+Superhero Excelsior
+Troubadours
+The Dangers of Dreaming
+Reluctant Hitman
+Six Days in the Life of Mims
+Spree
+Turning the Corner
+Governmentia
+Simmons on Vinyl
+Several Ways to Die Trying
+Becoming Sophie
+Invisible Kitchen
+Behind the Scenes: Escape from Cuba
+Hunting Dragonflies
+The Trouble with Anne
+Unsung
+A Darkness Swallowed
+Ask Without Fear!
+Intersections
+Project 7
+Table for Six
+Golden Sunset
+Blake Poopler
+En Pointe
+An Incident at Bridgeville
+The Projectionist
+Deadline
+Pulling
+The Colonel&#x27;s Bride
+Relations.
+Nancy Barry&#x27;s Big Case
+Motherly Love
+Happy Hour
+The Tree of Ghibet
+Pretend
+Daniel and Abraham
+Ben&#x27;s Plan
+Zorg and Andy
+Cross
+Gomer and Ed in West Hollywood
+Limits to Ambition
+Green Eyes for Anastice
+The Stalking Hand
+Cowtown Ballroom: Sweet Jesus
+Adrift in the Heartland
+Stained Memories
+My Roommate&#x27;s Girl
+Remainder
+Outside of Nowhere
+Franklin Wunder
+Bluefield
+Me2
+Gary Has No Pants
+Broken
+Rookie Bookie
+Snow Snow for Lucy
+Dog Days
+My Inner Self
+Widow
+Rise by Sin
+Hollywood Bastards
+The Willing Suspension of Disbelief
+Security
+Dollars and Signs
+LIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script>
+var addClickstreamHeadersToAjax = function(xhr) {
+    xhr.setRequestHeader("x-imdb-parent-id", "1X29F6ZNK20N934DABPR");
+};
+</script>
+
+                <title>IMDb: Most Popular Color English-Language Feature Films Released 1 January 2000 to 2013 With User Rating Between 5.0 And 10
+, Production Status: Released and Country of Origin United States
+</title>
+<link rel="canonical" href="http://www.imdb.com/search/title?colors=color&countries=us&languages=en%7C1&production_status=released&release_date=2000-01-01,2013&sort=moviemeter,asc&start=9101&title_type=feature&user_rating=5.0,10&view=simple" /><meta property="og:url" content="http://www.imdb.com/search/title?colors=color&countries=us&languages=en%7C1&production_status=released&release_date=2000-01-01,2013&sort=moviemeter,asc&start=9101&title_type=feature&user_rating=5.0,10&view=simple" />
+
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFe6b0bf1e01335f5e8afbdfd93ce178a6/css2/consumersite.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF5173f92f307da0f2552a68cea87f5741/css2/site/consumer-navbar.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF461ce1190bb7cbd0ba6a106010f44929/wheel/base.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF03f986861307cbcb730b18931c6b3c14/wheel/layout.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF81342682e82e6b6a45b59d43c48aeac5/wheel/fixed.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF6520738a648f46452f25b55c6df60087/css2/app/search/advsearch/view.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF582c41a065e87234fe21819ac822d058/css2/app/realm/view.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF9a73e243c62bd75f6553a48d0fef30e9/css2/site/consumer-navbar-suggestionsearch.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFe349c433e719491fa3192fed28cfb9e1/wheel/buttons.css" ><meta property="og:type" content="article" /><meta property="og:site_name" content="IMDb" /><meta property="og:title" content="IMDb: Most Popular Color English-Language Feature Films Released 1 January 2000 to 2013 With User Rating Between 5.0 And 10
+, Production Status: Released and Country of Origin United States
+" /><meta name="description" content="IMDb's advanced search allows you to run extremely powerful queries over all people and titles in the database.  Find exactly what you're looking for!" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF2190a643d35ab208ab82ed68045f59bc/wheel/widgets.css" >
+<!-- start m/s/a/_g_a_s , head -->
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFf2570c68d2e6785b41444db85c548fab/css2/ads/ads.css" ><script>window.ads_js_start = new Date().getTime();</script><script src="http://i.media-imdb.com/images/SFda24b8b8beb9367e92dfa3e2edafe3ba/js/cc/ads.js" ></script><script>generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);</script>
+<div id="advertising_scripts"></div>
+<script type="text/javascript">
+generic.monitoring.set_forester_info("main");
+generic.monitoring.set_twilight_info(
+    "main", 
+    "Other", 
+    "2a1b3f7bbc76311ec85967fb3586e26b12ac93f6", 
+    "2013-01-07T02%3A34%3A40GMT", 
+    "http://s.media-imdb.com/twilight/?");
+
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 109580;
+generic.days_to_midnight = 1.26828703703704;
+custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
+ad_utils.ad_prediction.init();
+consoleLog('advertising initialized','ads');
+</script>
+
+<script>
+    (function(url,onload,oncall) {
+        var elem = document.createElement('script'),
+            script = document.getElementsByTagName('script')[0],
+            final_url = url.replace(ad_utils.ord_regex, ad_utils.ord);
+        if (! navigator.userAgent.match('Firefox/(1|2)\\.')) {
+            elem.async = true;
+            elem.src = final_url;
+            if (onload) { 
+                elem.onload = onload;
+            }
+            script.parentNode.insertBefore(elem, script);
+            if (oncall) { 
+                oncall();
+            }
+        }
+    })("http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=[CLIENT_SIDE_ORD]&ord=[CLIENT_SIDE_ORD]",undefined,custom.amazon.aan_iframe_oncall);
+</script>
+
+<!-- end m/s/a/_g_a_s , head -->
+
+<script src="http://i.media-imdb.com/images/SFd27a377a4866ce46bc384cb601e44fcc/js/cc/yesScript.js" ></script>        </head>
+        <body id="styleguide-v2" class="fixed">
+            <div id="hidden_pre_root_content">
+<!-- start m/s/a/_g_a_s , body -->
+
+<script>
+    (function(url,itemName,h,w) {
+        if (flashAdUtils.canPlayFlash(9)) {
+            var flashTags = flashAdUtils.makeFlashAd({
+                    id:itemName,
+                    src:url,
+                    height:h || 1,
+                    width:w || 1
+                });
+            document.write('<div style="position:absolute;">' + flashTags + '</div>');
+        }
+    })("http://ia.media-imdb.com/images/M/MV5BMTMzMzgxNzM2M15BMl5Bc3dmXkFtZTcwNzM0MTkxNw@@._V1_.swf","baker",1,1);
+</script>
+<!-- end m/s/a/_g_a_s , body -->
+
+            </div>
+            <div id="wrapper">
+                <div id="root">
+
+
+
+
+
+<div id="nb20" class="navbarSprite">
+    <div id="supertab">
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script type="text/javascript"> 
+ad_utils.register_ad('top_ad');
+</script>
+<iframe data-bid-url="" data-dart-params="#imdb2.consumer.main/find;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/find;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=887987703874?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/find;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=887987703874?"  border="0" alt="advertisement" />
+Relations.
+Nancy Barry&#x27;s Big Case
+Motherly Love
+Happy Hour
+The Tree of Ghibet
+Pretend
+Daniel and Abraham
+Ben&#x27;s Plan
+Zorg and Andy
+Cross
+Gomer and Ed in West Hollywood
+Limits to Ambition
+Green Eyes for Anastice
+The Stalking Hand
+Cowtown Ballroom: Sweet Jesus
+Adrift in the Heartland
+Stained Memories
+My Roommate&#x27;s Girl
+Remainder
+Outside of Nowhere
+Franklin Wunder
+Bluefield
+Me2
+Gary Has No Pants
+Broken
+Rookie Bookie
+Snow Snow for Lucy
+Dog Days
+My Inner Self
+Widow
+Rise by Sin
+Hollywood Bastards
+The Willing Suspension of Disbelief
+Security
+Dollars and Signs
+LIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script>
+var addClickstreamHeadersToAjax = function(xhr) {
+    xhr.setRequestHeader("x-imdb-parent-id", "1X29F6ZNK20N934DABPR");
+};
+</script>
+
+                <title>IMDb: Most Popular Color English-Language Feature Films Released 1 January 2000 to 2013 With User Rating Between 5.0 And 10
+, Production Status: Released and Country of Origin United States
+</title>
+<link rel="canonical" href="http://www.imdb.com/search/title?colors=color&countries=us&languages=en%7C1&production_status=released&release_date=2000-01-01,2013&sort=moviemeter,asc&start=9101&title_type=feature&user_rating=5.0,10&view=simple" /><meta property="og:url" content="http://www.imdb.com/search/title?colors=color&countries=us&languages=en%7C1&production_status=released&release_date=2000-01-01,2013&sort=moviemeter,asc&start=9101&title_type=feature&user_rating=5.0,10&view=simple" />
+
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFe6b0bf1e01335f5e8afbdfd93ce178a6/css2/consumersite.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF5173f92f307da0f2552a68cea87f5741/css2/site/consumer-navbar.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF461ce1190bb7cbd0ba6a106010f44929/wheel/base.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF03f986861307cbcb730b18931c6b3c14/wheel/layout.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF81342682e82e6b6a45b59d43c48aeac5/wheel/fixed.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF6520738a648f46452f25b55c6df60087/css2/app/search/advsearch/view.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF582c41a065e87234fe21819ac822d058/css2/app/realm/view.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF9a73e243c62bd75f6553a48d0fef30e9/css2/site/consumer-navbar-suggestionsearch.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFe349c433e719491fa3192fed28cfb9e1/wheel/buttons.css" ><meta property="og:type" content="article" /><meta property="og:site_name" content="IMDb" /><meta property="og:title" content="IMDb: Most Popular Color English-Language Feature Films Released 1 January 2000 to 2013 With User Rating Between 5.0 And 10
+, Production Status: Released and Country of Origin United States
+" /><meta name="description" content="IMDb's advanced search allows you to run extremely powerful queries over all people and titles in the database.  Find exactly what you're looking for!" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF2190a643d35ab208ab82ed68045f59bc/wheel/widgets.css" >
+<!-- start m/s/a/_g_a_s , head -->
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFf2570c68d2e6785b41444db85c548fab/css2/ads/ads.css" ><script>window.ads_js_start = new Date().getTime();</script><script src="http://i.media-imdb.com/images/SFda24b8b8beb9367e92dfa3e2edafe3ba/js/cc/ads.js" ></script><script>generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);</script>
+<div id="advertising_scripts"></div>
+<script type="text/javascript">
+generic.monitoring.set_forester_info("main");
+generic.monitoring.set_twilight_info(
+    "main", 
+    "Other", 
+    "2a1b3f7bbc76311ec85967fb3586e26b12ac93f6", 
+    "2013-01-07T02%3A34%3A40GMT", 
+    "http://s.media-imdb.com/twilight/?");
+
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 109580;
+generic.days_to_midnight = 1.26828703703704;
+custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
+ad_utils.ad_prediction.init();
+consoleLog('advertising initialized','ads');
+</script>
+
+<script>
+    (function(url,onload,oncall) {
+        var elem = document.createElement('script'),
+            script = document.getElementsByTagName('script')[0],
+            final_url = url.replace(ad_utils.ord_regex, ad_utils.ord);
+        if (! navigator.userAgent.match('Firefox/(1|2)\\.')) {
+            elem.async = true;
+            elem.src = final_url;
+            if (onload) { 
+                elem.onload = onload;
+            }
+            script.parentNode.insertBefore(elem, script);
+            if (oncall) { 
+                oncall();
+            }
+        }
+    })("http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=[CLIENT_SIDE_ORD]&ord=[CLIENT_SIDE_ORD]",undefined,custom.amazon.aan_iframe_oncall);
+</script>
+
+<!-- end m/s/a/_g_a_s , head -->
+
+<script src="http://i.media-imdb.com/images/SFd27a377a4866ce46bc384cb601e44fcc/js/cc/yesScript.js" ></script>        </head>
+        <body id="styleguide-v2" class="fixed">
+            <div id="hidden_pre_root_content">
+<!-- start m/s/a/_g_a_s , body -->
+
+<script>
+    (function(url,itemName,h,w) {
+        if (flashAdUtils.canPlayFlash(9)) {
+            var flashTags = flashAdUtils.makeFlashAd({
+                    id:itemName,
+                    src:url,
+                    height:h || 1,
+                    width:w || 1
+                });
+            document.write('<div style="position:absolute;">' + flashTags + '</div>');
+        }
+    })("http://ia.media-imdb.com/images/M/MV5BMTMzMzgxNzM2M15BMl5Bc3dmXkFtZTcwNzM0MTkxNw@@._V1_.swf","baker",1,1);
+</script>
+<!-- end m/s/a/_g_a_s , body -->
+
+            </div>
+            <div id="wrapper">
+                <div id="root">
+
+
+
+
+
+<div id="nb20" class="navbarSprite">
+    <div id="supertab">
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script type="text/javascript"> 
+ad_utils.register_ad('top_ad');
+</script>
+<iframe data-bid-url="" data-dart-params="#imdb2.consumer.main/find;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/find;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=887987703874?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/find;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=887987703874?"  border="0" alt="advertisement" />
+Relations.
+Nancy Barry&#x27;s Big Case
+Motherly Love
+Happy Hour
+The Tree of Ghibet
+Pretend
+Daniel and Abraham
+Ben&#x27;s Plan
+Zorg and Andy
+Cross
+Gomer and Ed in West Hollywood
+Limits to Ambition
+Green Eyes for Anastice
+The Stalking Hand
+Cowtown Ballroom: Sweet Jesus
+Adrift in the Heartland
+Stained Memories
+My Roommate&#x27;s Girl
+Remainder
+Outside of Nowhere
+Franklin Wunder
+Bluefield
+Me2
+Gary Has No Pants
+Broken
+Rookie Bookie
+Snow Snow for Lucy
